@@ -27,4 +27,35 @@
 </p>
 
 ---
+## 📊 GitHub Stats
 
+ <p align="center">
+  <img height="170em" src="https://github-readme-stats-lyart-pi-93.vercel.app/api?username=VanessaCarvalho-VC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats-lyart-pi-93.vercel.app/api/top-langs/?username=VanessaCarvalho-VC&layout=compact&theme=dracula"/>
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vanessacarvalho20" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vnscarvalh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.github.com/VanessaCarvalho-VC" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/vanessa.erika._" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“O melhor código é aquele que é fácil de entender e difícil de quebrar.”</i>
+</p>
